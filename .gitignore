@@ -21,3 +21,5 @@ db.sqlite3
 .test*
 
 *.env
+
+.session
